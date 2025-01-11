@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: rgb(78, 65, 215);
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: centre;
+    color: white;
+}
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+tr{
+    background-color: #313131;
+}
+a{
+    color: white;
+  }
+  h1{
+    align-content: center;
+  }
+  .Headings{
+    text-align: center;
+}
